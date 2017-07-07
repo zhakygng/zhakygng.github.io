@@ -1,5 +1,4 @@
-# Jekyll Cayman theme
-#Zhaky's Github Pages
+# Zhaky's Github Pages
 
 This Github pages is generate with [Cayman themes](http://jasonlong.github.io/cayman-theme)
 
